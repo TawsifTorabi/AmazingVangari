@@ -6,4 +6,4 @@ var inputs = document.getElementsByClassName('_42o8 _42oc');
  inputs[i].click();  }
  }, 1000);
 
-Watch the video to learn more: https://www.youtube.com/watch?v=Y1lUGxwMWwo
+Watch the video to learn more: https://www.youtube.com/watch?v=Y1lUGxwMWwo 
