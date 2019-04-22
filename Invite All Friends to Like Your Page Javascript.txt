@@ -1,6 +1,6 @@
 Use This code on facebook in console window to auto check all friend to invite them to like your dedicated page:
 
-javascript:LsetInterval(function(){ 
+javascript:setInterval(function(){ 
 var inputs = document.getElementsByClassName('_42o8 _42oc'); 
  for(var i=0; i<inputs.length;i++) { 
  inputs[i].click();  }
